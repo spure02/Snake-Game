@@ -12,10 +12,10 @@
 Snake is a two-dimensional game that simulates a moving snake. The player controls the snake by moving it up/down/left/right to eat randomly placed food on the screen. Eating the food increases the player’s score count and the length of the snake. Hitting the tail of the snake by accident or the walls of the game area forces a game over. The goal is to continuously increase the length of the snake (and the player’s score) without accidentally hitting the tail of the snake or the boundaries of the game area.
 
 ## Hardware
-The hardware that was used in this design is listed below. The equipment that was not taught in this course has been bolded. 
+The hardware that was used in this design is listed below. 
 - ATMega1284p microcontroller
-- **Nokia 5110 LCD Screen**
-- **SNES Controller**
+- Nokia 5110 LCD Screen
+- SNES Controller
 - LCD Screen
 - Speaker
 
